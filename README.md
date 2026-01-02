@@ -1,6 +1,6 @@
 # toonflix
 
-A new Flutter project.
+A new Flutter Clone project.
 
 ## Getting Started
 
